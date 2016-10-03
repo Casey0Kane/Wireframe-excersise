@@ -1,0 +1,62 @@
+* {
+  padding: 5px;
+}
+
+Header {
+  text-align: left;
+  font-size: 20px;
+  background color: gray;
+}
+
+nav {
+  text-align: center;
+  background-color: gray;
+}
+
+ul {
+  text-align: center;
+  display: inline;
+  position: relative;
+  left: 200px;
+}
+
+#section1 {
+}
+
+#image1 {
+  text-align: center;
+  position: relative;
+  left: 230px;
+}
+
+#section2 {
+}
+
+#section3 {
+  text-align: center;
+}
+
+h3 {
+  float: right;
+  right: 100px;
+}
+
+p {
+  max-width: 300px;
+  text-align: center;
+  float: right;
+
+}
+
+label {
+position: relative;
+left: 200px;
+}
+
+footer {
+  max-width: 500px;
+  text-align: center;
+  position:absolute;
+  right: 450px;
+  background-color: gray;
+}
